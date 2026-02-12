@@ -1,0 +1,17 @@
+{
+  "name": "animated-heart",
+  "version": "1.0.0",
+  "description": "Animated heart web application",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "heart",
+    "animation",
+    "canvas"
+  ],
+  "author": "",
+  "license": "MIT"
+}
